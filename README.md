@@ -182,6 +182,10 @@ Thanks to the [RS School](https://rs.school/) for the knowledge and experience w
 
 Special thanks to the Commercetools team for providing a well-documented, TypeScript-ready SDK that simplified our e-commerce integration.
 
+## 🌐 Live Demo
+
+Check out the live application: [Poster Store](https://poster-store.netlify.app/)
+
 ## 📄🔒 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.

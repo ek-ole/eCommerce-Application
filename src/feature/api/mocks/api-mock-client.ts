@@ -29,19 +29,34 @@ const createSearchWrapper = (data: unknown) => ({
 
 export const mockApiRoot = {
   products: () => ({
-    withId: ({ ID }: { ID: string }) => {
-      const product = (productsData as Product[]).find((p) => p.id === ID);
-      return createGetWrapper({ body: product || {} });
-    },
-    get: () =>
-      createExecuteWrapper({
-        body: {
-          results: productsData,
-          total: (productsData as Product[]).length,
-          limit: 20,
-          offset: 0,
+    withId: ({ ID }: { ID: string }) => ({
+      get: () => ({
+        execute: async () => {
+          await Promise.resolve();
+          const product = (productsData as Product[]).find((p) => p.id === ID);
+          return {
+            body: {
+              masterData: {
+                current: product || {},
+              },
+            },
+          };
         },
       }),
+    }),
+    get: () => ({
+      execute: async () => {
+        await Promise.resolve();
+        return {
+          body: {
+            results: productsData,
+            total: (productsData as Product[]).length,
+            limit: 20,
+            offset: 0,
+          },
+        };
+      },
+    }),
   }),
   categories: () => createGetWrapper({ body: { results: [] } }),
   productTypes: () => createGetWrapper({ body: { results: [] } }),

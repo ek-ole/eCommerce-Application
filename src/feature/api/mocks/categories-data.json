@@ -1,0 +1,27 @@
+[
+  {
+    "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef",
+    "name": { "en-GB": "All" },
+    "parentId": null
+  },
+  {
+    "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069",
+    "name": { "en-GB": "Abstract" },
+    "parentId": "88e76b96-306c-4e63-9a13-cd7d103f2bef"
+  },
+  {
+    "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c",
+    "name": { "en-GB": "Space" },
+    "parentId": "88e76b96-306c-4e63-9a13-cd7d103f2bef"
+  },
+  {
+    "id": "cf506640-e300-4331-a1cf-4c85e5675e7e",
+    "name": { "en-GB": "Black & White" },
+    "parentId": "88e76b96-306c-4e63-9a13-cd7d103f2bef"
+  },
+  {
+    "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb",
+    "name": { "en-GB": "Motivation" },
+    "parentId": "88e76b96-306c-4e63-9a13-cd7d103f2bef"
+  }
+]

@@ -1,0 +1,3489 @@
+[
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "014f30bc-aa0a-4b00-ad4c-f55f238c4e56",
+    "createdAt": "2025-06-09T10:34:41.085Z",
+    "lastModifiedAt": "2025-06-15T19:11:50.438Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "5a436380-ce6c-4966-9fe6-d62e6b72eb8e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/7503242117-nO98jF2M.jpg",
+          "dimensions": { "w": 750, "h": 1000 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1200,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Night is no obstacle to work" },
+    "slug": { "en-GB": "night-is-no-obstacle-to-work" },
+    "description": { "en-GB": "Night is a great time to study at RS School" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "f9bbeddd-fcb1-4e01-ae83-21a295bcd4f4",
+    "createdAt": "2025-06-05T14:30:43.254Z",
+    "lastModifiedAt": "2025-06-05T14:32:08.735Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/da076689-dc6a-47bd-b964-9d778a900bf0/segments/2:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_1.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/da076689-dc6a-47bd-b964-9d778a900bf0/segments/3:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_2.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/da076689-dc6a-47bd-b964-9d778a900bf0/segments/4:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_3.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1950,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Arctic Fractures" },
+    "slug": { "en-GB": "arctic-fractures" },
+    "description": {
+      "en-GB": "High contrast and geometric shapes highlight the severity and grandeur of the northern ice, creating an atmosphere of calm and power of arctic nature."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "ca67a145-6e8e-4b02-9f10-3da2476d7c48",
+    "createdAt": "2025-06-14T09:47:08.157Z",
+    "lastModifiedAt": "2025-06-14T09:48:59.246Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "spring" },
+        { "text": "pastel" },
+        { "text": "colorful" },
+        { "text": "whisper" },
+        { "text": "color" },
+        { "text": "feather" }
+      ]
+    },
+    "masterVariant": {
+      "key": "051-01",
+      "sku": "051-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-gwSq_xek.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/cute-white-cat-lying-ml-BDhjB.jpg",
+          "dimensions": { "w": 778, "h": 1168 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/cute-white-cat-lying-OPmkTTYH.jpg",
+          "dimensions": { "w": 1179, "h": 1768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1350,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1080,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Whispers of spring" },
+    "slug": { "en-GB": "whispers-of-spring" },
+    "description": {
+      "en-GB": "Soft, feathery brushstrokes blend pastel hues of tranquil teal, whispery lavender, tender pink, and warm creamy yellow, creating a harmonious flow of color that evokes springtime freshness. The subtle texture and organic imperfections add depth and authenticity, enhancing the artwork’s refined, sophisticated feel. Perfect as a calming accent piece, this watercolor brings a light, airy elegance to any space."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "002123",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "b69c5ed9-af39-4107-b3d9-61df454d86c4",
+    "createdAt": "2025-05-31T18:18:15.003Z",
+    "lastModifiedAt": "2025-06-01T20:07:02.861Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/315f8677-ec95-4711-ac5a-3c9728713874/segments/2:4:1/Flux_Dev_A_vibrant_richly_detailed_poster_capturing_the_essenc_1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/315f8677-ec95-4711-ac5a-3c9728713874/segments/4:4:1/Flux_Dev_A_vibrant_richly_detailed_poster_capturing_the_essenc_3.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1100,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 880,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "City of Golden Dreams" },
+    "slug": { "en-GB": "city-of-golden-dreams" },
+    "description": {
+      "en-GB": "This poster is not just an image, but an atmosphere: warm, nostalgic, with a hint of eternal summer.\n\nStyle: Modern retro with cinematic light, vintage poster texture and California sunset palette."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "eb331811-064b-420d-ace0-7aabaac09085",
+    "createdAt": "2025-06-12T10:01:59.907Z",
+    "lastModifiedAt": "2025-06-12T10:08:19.145Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "winter" },
+        { "text": "abstract" },
+        { "text": "colorful" },
+        { "text": "snow" }
+      ]
+    },
+    "masterVariant": {
+      "key": "044-01",
+      "sku": "044-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_bold_acryli-prPuKqrt.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/plant-on-wooden-draw-ZkpTXwza.jpg",
+          "dimensions": { "w": 1000, "h": 1497 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1100,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 880,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Winter abstraction" },
+    "slug": { "en-GB": "winter-abstraction" },
+    "description": {
+      "en-GB": "This expressive poster blends bold outlines, snowy hills, and abstract trees with cool tones of blue, purple, and soft red. The painterly texture and playful composition evoke early expressionism and Art Nouveau elegance — a perfect touch of modern art for your wall."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "002",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "8031ed80-8e45-4d0d-80d5-fbc10a9b3339",
+    "createdAt": "2025-05-23T15:26:57.687Z",
+    "lastModifiedAt": "2025-06-02T17:02:06.007Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "key": "002",
+      "sku": "002",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/3-vUWrEYV7.jpg",
+          "dimensions": { "w": 371, "h": 511 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/4-XKXdUklh.jpg",
+          "dimensions": { "w": 1120, "h": 1120 }
+        }
+      ],
+      "prices": [
+        {
+          "key": "002",
+          "value": {
+            "centAmount": 2000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1600,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Clean vector" },
+    "slug": { "en-GB": "clean-vector" },
+    "description": { "en-GB": "Celan vector with pastel colors", "ru-RU": "11" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0424",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "2aaa51ff-4e2c-4419-aa1b-44653a8bb862",
+    "createdAt": "2025-05-31T19:03:45.437Z",
+    "lastModifiedAt": "2025-06-08T18:00:43.114Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_vibra-cPDKDg-G.jpg",
+          "dimensions": { "w": 563, "h": 737 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/705c5e7b-a854-4297-b2b4-3c1cdb828fa7/segments/3:4:1/Flux_Schnell_A_vibrant_modern_art_piece_showcased_on_a_large_w_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/705c5e7b-a854-4297-b2b4-3c1cdb828fa7/segments/1:4:1/Flux_Schnell_A_vibrant_modern_art_piece_showcased_on_a_large_w_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/705c5e7b-a854-4297-b2b4-3c1cdb828fa7/segments/2:4:1/Flux_Schnell_A_vibrant_modern_art_piece_showcased_on_a_large_w_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/705c5e7b-a854-4297-b2b4-3c1cdb828fa7/segments/4:4:1/Flux_Schnell_A_vibrant_modern_art_piece_showcased_on_a_large_w_3.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 600,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Electric Pulse" },
+    "slug": { "en-GB": "electric-pulse" },
+    "description": {
+      "en-GB": "Contemporary abstract expressionism with a touch of neo-geometric edge."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "1b6a2a20-7e3c-411d-a665-76b8901e1af5",
+    "createdAt": "2025-06-19T15:28:18.384Z",
+    "lastModifiedAt": "2025-06-19T15:34:16.049Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "5a436380-ce6c-4966-9fe6-d62e6b72eb8e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/990x1226_0xac120003_-2WFJuc54.jpg",
+          "dimensions": { "w": 990, "h": 1226 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1200,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "About friendship 2" },
+    "slug": { "en-GB": "about-friendship-2" },
+    "description": { "en-GB": "Soviet poster about friendship of peoples" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "00254",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "7d7cfe5e-3bcd-4822-ab32-dcc8838e6961",
+    "createdAt": "2025-06-01T00:40:29.120Z",
+    "lastModifiedAt": "2025-06-08T17:56:18.164Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1ad3d991-5f85-4dad-930a-458ab8229654/segments/1:4:1/Flux_Schnell_A_sleek_and_modern_vertical_poster_that_showcases_0.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1ad3d991-5f85-4dad-930a-458ab8229654/segments/3:4:1/Flux_Schnell_A_sleek_and_modern_vertical_poster_that_showcases_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1100,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Voyagers" },
+    "slug": { "en-GB": "voyagers" },
+    "description": {
+      "en-GB": "Sci-fi realism meets contemporary graphic design. A call to adventure—where curiosity and human ingenuity light the way."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "411c07f9-0010-4131-805a-d2de58e62c77",
+    "createdAt": "2025-06-12T10:17:11.974Z",
+    "lastModifiedAt": "2025-06-12T10:20:11.506Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "golden" },
+        { "text": "abstract" },
+        { "text": "metallic" },
+        { "text": "colorful" }
+      ]
+    },
+    "masterVariant": {
+      "key": "045-01",
+      "sku": "045-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_delicate_wa-XsMsWjYO.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/the-gray-wood-cabine-xR2X6XdM.jpg",
+          "dimensions": { "w": 1767, "h": 2651 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1250,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1000,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Golden reverie" },
+    "slug": { "en-GB": "golden-reverie" },
+    "description": {
+      "en-GB": "Immerse yourself in the opulence of color and form with this Klimt-inspired abstract poster. Featuring rich golds, deep reds, emerald greens, and muted blues, it evokes the elegance of Art Nouveau through mosaic-like details, ornamental textures, and flowing organic shapes. With subtle metallic accents and a luminous layered finish, this piece brings a sense of luxury and artistic depth to any modern space."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "014",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "ef9866f9-13ff-4a31-9416-e2050108a3ad",
+    "createdAt": "2025-05-28T11:20:03.309Z",
+    "lastModifiedAt": "2025-06-03T09:23:45.509Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "014",
+      "sku": "014",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-eQcriv3O.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_delicat-W9z6XezY.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_Show_th-LhCNoBLp.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1300,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1235,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "58c24703-6fac-48dd-846e-c36cd03324c7",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Mysterious Witnesses" },
+    "slug": { "en-GB": "mysterious-witnesses" },
+    "description": {
+      "en-GB": "A haunting vertical poster in cinematic style. The dark, atmospheric design features vivid contrasts and grainy textures, making it an ideal piece to add a touch of sci-fi mystery and sophistication to any modern interior."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "006",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "e9938442-7e6f-4c38-892d-93ad81bacfbe",
+    "createdAt": "2025-05-25T20:31:02.395Z",
+    "lastModifiedAt": "2025-06-01T20:07:02.887Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "key": "006",
+      "sku": "006",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_large-h8AiPb-k.jpg",
+          "dimensions": { "w": 593, "h": 765 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/8-2fT-Pdxd.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 2000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1600,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Sands of Destiny" },
+    "slug": { "en-GB": "sands-of-destiny" },
+    "description": { "en-GB": " A treasure hunter unlocks a curse that rewrites history" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0241",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "3c50982d-69f5-4e42-a75a-7255a41a0ee1",
+    "createdAt": "2025-06-19T15:25:15.767Z",
+    "lastModifiedAt": "2025-06-19T15:36:28.596Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "5a436380-ce6c-4966-9fe6-d62e6b72eb8e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/990x1506_0xac120003_-A-6SJOj3.jpg",
+          "dimensions": { "w": 990, "h": 1506 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": " About friendship" },
+    "slug": { "en-GB": "about-friendship" },
+    "description": { "en-GB": "And not about what you thought" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0543",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a4c4a45b-6612-4e47-ba00-e370d6b76379",
+    "createdAt": "2025-06-05T13:52:59.439Z",
+    "lastModifiedAt": "2025-06-08T18:01:07.030Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-cOTmlbM5.jpg",
+          "dimensions": { "w": 501, "h": 721 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-SGDfuRUg.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 600,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Beyond the Break" },
+    "slug": { "en-GB": "beyond-the-break" },
+    "description": {
+      "en-GB": "The elegant palette and clean lines create an atmosphere of strength and calm, inspiring you to overcome boundaries."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "008",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a8f56823-45e8-4149-a0ab-9b796bdc7c53",
+    "createdAt": "2025-05-25T20:37:06.437Z",
+    "lastModifiedAt": "2025-06-02T17:00:27.207Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "key": "008",
+      "sku": "008",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/11-31FwSHnd.jpg",
+          "dimensions": { "w": 335, "h": 519 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/12-6RzZ-Gl5.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 400,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "The Last Canvas" },
+    "slug": { "en-GB": "the-last-canvas" },
+    "description": { "en-GB": "An artist’s paintings come to life—but at a terrifying cost." },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "056",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "ad16ff0a-869a-4d49-b42a-bc8de5236138",
+    "createdAt": "2025-06-05T13:24:32.064Z",
+    "lastModifiedAt": "2025-06-08T17:59:54.777Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-HDTKLaIa.jpg",
+          "dimensions": { "w": 709, "h": 969 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-dsCa6vEf.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/7a1c0daa-3b1f-4695-b913-9ae3741515ee/segments/2:4:1/Flux_Schnell_A_vertical_A2size_wall_poster_with_clean_white_ma_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/7a1c0daa-3b1f-4695-b913-9ae3741515ee/segments/3:4:1/Flux_Schnell_A_vertical_A2size_wall_poster_with_clean_white_ma_2.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Now Spinning" },
+    "slug": { "en-GB": "now-spinning" },
+    "description": {
+      "en-GB": "A poster that fills your space with warmth and cultural taste. Elegant lines, textures and retro elements create a unique piece of art for lovers of vinyl and cozy interiors."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "01247678",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "3355844d-a42d-4c53-b36e-592d0a1a8e72",
+    "createdAt": "2025-05-31T17:52:54.289Z",
+    "lastModifiedAt": "2025-06-01T20:06:52.090Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ad9cd1a5-8ad2-474d-b434-106c1dfc7991/segments/1:4:1/Flux_Dev_Create_a_highly_detailed_and_visually_rich_California_0.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ad9cd1a5-8ad2-474d-b434-106c1dfc7991/segments/4:4:1/Flux_Dev_Create_a_highly_detailed_and_visually_rich_California_3.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ad9cd1a5-8ad2-474d-b434-106c1dfc7991/segments/3:4:1/Flux_Dev_Create_a_highly_detailed_and_visually_rich_California_2.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Endless Summer Vibes" },
+    "slug": { "en-GB": "endless-summer-vibes" },
+    "description": {
+      "en-GB": "A bright, sunny and energetic poster in retro California style. The warm palette with golden, pastel pink and azure tones creates an atmosphere of eternal celebration. Perfect for those who dream of a road along the Pacific Ocean!"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "069146f2-a7ee-4354-928c-d2e158ed1fb1",
+    "createdAt": "2025-06-14T07:45:27.453Z",
+    "lastModifiedAt": "2025-06-14T07:51:07.601Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "searchKeywords": {
+      "en-GB": [{ "text": "blackwhite" }, { "text": "cosmos" }, { "text": "shattle" }]
+    },
+    "masterVariant": {
+      "key": "049-01",
+      "sku": "049-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Lucid_Realism_create-4mscIKmk.jpg",
+          "dimensions": { "w": 1200, "h": 1800 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/bright-studio-apartm-9BIpp7Ow.jpg",
+          "dimensions": { "w": 601, "h": 900 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 800,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Discovery in stillness" },
+    "slug": { "en-GB": "discovery-in-stillness" },
+    "description": {
+      "en-GB": "Experience the quiet majesty of space exploration with \"Discovery in Stillness\". This high-contrast greyscale artwork features a space shuttle—such as the iconic Discovery—captured in a static, grounded position, presented in full from nose to tail. Set against a neutral, softly graded background, the image highlights the shuttle’s intricate textures and realistic surface details, from its reinforced wings to the powerful engines at the rear."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "6cf31db6-e3aa-4557-98da-bcd01d93d553",
+    "createdAt": "2025-06-14T09:17:40.585Z",
+    "lastModifiedAt": "2025-06-14T09:21:18.345Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "blackwhite" },
+        { "text": "bar" },
+        { "text": "song" },
+        { "text": "evening" },
+        { "text": "whiskey" },
+        { "text": "singer" },
+        { "text": "vintage" }
+      ]
+    },
+    "masterVariant": {
+      "key": "050-01",
+      "sku": "050-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-bQ6CsIVu.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/peaceful-living-room-0J9wOzrV.jpg",
+          "dimensions": { "w": 840, "h": 1243 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/art-gallery-wall---2-n21dK7AU.jpg",
+          "dimensions": { "w": 1080, "h": 1620 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1250,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Midnight melody" },
+    "slug": { "en-GB": "midnight-melody" },
+    "description": {
+      "en-GB": "Step into a timeless moment with \"Midnight Melody\", a black-and-white portrayal of a 1940s jazz bar, rich in vintage charm and soulful ambiance. Framed by grayscale vintage posters and artful brushwork, this piece is a tribute to the elegance and rhythm of a bygone era."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "c79dcb25-5a13-455d-9e5f-059c0b902b30",
+    "createdAt": "2025-06-11T11:44:48.038Z",
+    "lastModifiedAt": "2025-06-14T05:53:35.727Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "sketch" },
+        { "text": "bicycle" },
+        { "text": "vintage" },
+        { "text": "blackwhite" }
+      ]
+    },
+    "masterVariant": {
+      "key": "039-01",
+      "sku": "039-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-0qAOgTaY.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-QUkQ4wIl.jpg",
+          "dimensions": { "w": 1925, "h": 2409 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1200,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Vintage bicycle" },
+    "slug": { "en-GB": "vintage-bicycle" },
+    "description": {
+      "en-GB": "A minimalist pencil sketch of a classic bicycle. Light shading and clean lines evoke a quiet sense of nostalgia and simplicity. Perfect for modern or creative spaces."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "c7a080ac-14aa-4b5f-b877-71eee19c9771",
+    "createdAt": "2025-06-19T15:44:52.580Z",
+    "lastModifiedAt": "2025-06-19T15:48:24.819Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/optimize%20%282%29-gNz1pVOR.jpg",
+          "dimensions": { "w": 699, "h": 1007 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/optimize%20%283%29-ZlcLzi8_.jpg",
+          "dimensions": { "w": 1210, "h": 1210 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/optimize%20%281%29-von9-amE.jpg",
+          "dimensions": { "w": 1210, "h": 1210 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1800,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "About teamwork" },
+    "slug": { "en-GB": "about-teamwork" },
+    "description": { "en-GB": "Poster about the final assignment of the course at RS School" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "013",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "d0175fba-0443-4862-8026-e2cd1295657f",
+    "createdAt": "2025-05-28T11:03:37.614Z",
+    "lastModifiedAt": "2025-06-02T17:15:51.563Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "013",
+      "sku": "013",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-Yvj_tw0X.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-bZzlz1Y0.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1200,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Convergence of Realms" },
+    "slug": { "en-GB": "convergence-of-realms" },
+    "description": {
+      "en-GB": "Wall poster blending classical realism with surrealism. The striking contrast creates a visual tension between tradition and imagination, inviting viewers into a world where two styles collide and coexist."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "15c0f319-ece7-4a64-bdc9-d19c85ffd1c4",
+    "createdAt": "2025-06-11T17:12:02.540Z",
+    "lastModifiedAt": "2025-06-11T17:56:13.835Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "abstarct" },
+        { "text": "colorful" },
+        { "text": "watercolor" },
+        { "text": "geometric" }
+      ]
+    },
+    "masterVariant": {
+      "key": "043-01",
+      "sku": "043-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_delicate_wa-BvsK94DQ.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/cute-white-cat-lying-xAe-kE2L.jpg",
+          "dimensions": { "w": 1179, "h": 1768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1050,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Abstraction in pastel colors" },
+    "slug": { "en-GB": "abstraction-in-pastel-colors" },
+    "description": {
+      "en-GB": "A striking abstract bursting with energy and color. Bold geometric forms and expressive brush strokes create a dynamic tension between warm and cool tones. With crisp edges and textured accents, this modern art piece adds vibrancy and sophistication to any contemporary space."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0845",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "85e0de71-64e7-4469-ac38-f03e80da8aec",
+    "createdAt": "2025-06-01T00:44:59.323Z",
+    "lastModifiedAt": "2025-06-10T14:47:13.071Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/8835cf19-ada9-404c-a17f-40b0a7cabce0/segments/4:4:1/Flux_Schnell_A_largescale_vertical_wall_poster_showcasing_a_me_3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/8835cf19-ada9-404c-a17f-40b0a7cabce0/segments/3:4:1/Flux_Schnell_A_largescale_vertical_wall_poster_showcasing_a_me_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/8835cf19-ada9-404c-a17f-40b0a7cabce0/segments/2:4:1/Flux_Schnell_A_largescale_vertical_wall_poster_showcasing_a_me_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/8835cf19-ada9-404c-a17f-40b0a7cabce0/segments/1:4:1/Flux_Schnell_A_largescale_vertical_wall_poster_showcasing_a_me_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 2400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Orbital Silence" },
+    "slug": { "en-GB": "orbital-silence" },
+    "description": {
+      "en-GB": "A sophisticated, large-format space poster blending minimalist elegance with cosmic grandeur. The design centers on a hyper-stylized galaxy rendered in pearlescent whites and liquid mercury"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a1ac9d51-6a85-486b-9065-a34948242cbc",
+    "createdAt": "2025-06-09T10:32:12.583Z",
+    "lastModifiedAt": "2025-06-09T10:33:24.706Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "5a436380-ce6c-4966-9fe6-d62e6b72eb8e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/7503247149-2kdGMkK-.jpg",
+          "dimensions": { "w": 750, "h": 1000 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Inconsistent" },
+    "slug": { "en-GB": "inconsistent" },
+    "description": {
+      "en-GB": "Lack of consistency between data, data integrity, and internal inconsistency"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "02546",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "id": "d4bd028d-f776-4d78-ba8d-533bddba4444",
+    "createdAt": "2025-06-09T10:53:15.221Z",
+    "lastModifiedAt": "2025-06-09T11:37:01.928Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20Microsoft%20W-tIy7MIxT.jpg",
+          "dimensions": { "w": 2339, "h": 3309 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/de78a3d77b140adaec49-Nlvti_ao.jpg",
+          "dimensions": { "w": 1500, "h": 1500 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1120,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Noah didn't whine and you didn't whine either" },
+    "slug": { "en-GB": "noah-didnt-whine-and-you-didnt-whine-either" },
+    "description": { "en-GB": "Powerful motivational poster to help you get through RS School" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a5a72bae-7a30-4579-9817-fe866fa8e189",
+    "createdAt": "2025-06-14T06:46:49.284Z",
+    "lastModifiedAt": "2025-06-14T06:48:04.952Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "searchKeywords": {
+      "en-GB": [{ "text": "flower" }, { "text": "iris" }, { "text": "blossom" }]
+    },
+    "masterVariant": {
+      "key": "047-01",
+      "sku": "047-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-DxVoXMM9.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-Sjs9gYhk.jpg",
+          "dimensions": { "w": 1925, "h": 2053 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/colorful-farmhouse-s-qUqfUhsE.jpg",
+          "dimensions": { "w": 2784, "h": 4000 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 980,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 784,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Iris blossom" },
+    "slug": { "en-GB": "iris-blossom" },
+    "description": {
+      "en-GB": "Experience timeless beauty with this serene and vibrant painting of an iris blossom, inspired by the iconic style of Katsushika Hokusai. Delicate, curved petals in soft shades of purple and white unfold gracefully against a subtle gradient background, reminiscent of a misty Japanese morning. "
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "04634",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "01365fe9-37b9-417a-ab46-ff22f5d91e2e",
+    "createdAt": "2025-06-05T13:55:50.358Z",
+    "lastModifiedAt": "2025-06-05T14:50:34.230Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-NppiUgpA.jpg",
+          "dimensions": { "w": 257, "h": 366 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1a98307a-d91c-4a0c-a963-bebc31cae1a6/segments/4:4:1/Flux_Schnell_A_vertical_A2sized_art_poster_designed_for_modern_3.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1a98307a-d91c-4a0c-a963-bebc31cae1a6/segments/1:4:1/Flux_Schnell_A_vertical_A2sized_art_poster_designed_for_modern_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1a98307a-d91c-4a0c-a963-bebc31cae1a6/segments/2:4:1/Flux_Schnell_A_vertical_A2sized_art_poster_designed_for_modern_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/1a98307a-d91c-4a0c-a963-bebc31cae1a6/segments/3:4:1/Flux_Schnell_A_vertical_A2sized_art_poster_designed_for_modern_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Golden Hour Escape" },
+    "slug": { "en-GB": "golden-hour-escape" },
+    "description": {
+      "en-GB": "\nA soft and cozy poster that conveys the atmosphere of a sunny coast - with palm trees, waves and a classic car. Warm shades and minimalism create a feeling of lightness and nostalgia, perfectly fitting into a modern interior."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "076",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "214dabac-118d-467a-adc7-32d4fbc203d5",
+    "createdAt": "2025-06-05T14:13:24.664Z",
+    "lastModifiedAt": "2025-06-05T14:15:25.557Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_styli-izrP2hEs.jpg",
+          "dimensions": { "w": 448, "h": 664 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d69820fb-97c1-432c-8d57-9ed5ea8a4e14/segments/3:4:1/Flux_Schnell_A_stylish_A2format_wall_poster_designed_for_inter_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d69820fb-97c1-432c-8d57-9ed5ea8a4e14/segments/4:4:1/Flux_Schnell_A_stylish_A2format_wall_poster_designed_for_inter_3.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d69820fb-97c1-432c-8d57-9ed5ea8a4e14/segments/2:4:1/Flux_Schnell_A_stylish_A2format_wall_poster_designed_for_inter_1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d69820fb-97c1-432c-8d57-9ed5ea8a4e14/segments/1:4:1/Flux_Schnell_A_stylish_A2format_wall_poster_designed_for_inter_0.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 900,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 720,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Futurist Sky" },
+    "slug": { "en-GB": "futurist-sky" },
+    "description": {
+      "en-GB": "Sophisticated space art with clean lines, metallic accents and textured details. Creates a sense of a smart, calm future - the perfect accent for a stylish space."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "1c52e6d2-4518-487e-b3ec-a53a66833215",
+    "createdAt": "2025-06-05T14:20:53.258Z",
+    "lastModifiedAt": "2025-06-05T14:22:20.174Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d8a026eb-afab-42f7-a39e-9c87dfdfcf61/segments/1:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_0.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/90d86fba-518f-4cca-81ba-4a676e9b828c/segments/4:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_3.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/90d86fba-518f-4cca-81ba-4a676e9b828c/segments/2:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_1.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d833e2b0-c34c-4927-b5c3-ed795d89c01f/segments/4:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_hi_3.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 700,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Ink & Motion" },
+    "slug": { "en-GB": "ink-motion" },
+    "description": {
+      "en-GB": "A stylish black and white poster with rich texture and fine lines depicting natural motifs - trees, mountains or waves. Powerful contrast and elegant graphics create an atmosphere of calm and depth, adding sophistication to any wall."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "011",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "d58647f9-e422-4f80-a504-8043a4328aeb",
+    "createdAt": "2025-05-28T10:29:42.383Z",
+    "lastModifiedAt": "2025-06-03T00:17:38.975Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "011",
+      "sku": "011",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_Create_-k_wj-mvE.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_Create_-9MIBDd4B.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_Create_-JHdciMGM.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_Create_-jO1l1egh.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1100,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Peace, Love & Music: The Woodstock Experience" },
+    "slug": { "en-GB": "woodstock" },
+    "description": { "en-GB": "Dive into the heart of the Woodstock Festival" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a30693a9-87ba-4d82-9ec3-a1f226f139a5",
+    "createdAt": "2025-06-14T07:08:32.172Z",
+    "lastModifiedAt": "2025-06-14T07:10:17.549Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "song" },
+        { "text": "bird" },
+        { "text": "morning" },
+        { "text": "colorful" }
+      ]
+    },
+    "masterVariant": {
+      "key": "048-01",
+      "sku": "048-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-z35uRSuA.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/the-gray-wood-cabine-KopchDpD.jpg",
+          "dimensions": { "w": 1112, "h": 1679 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 950,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 760,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Morning song" },
+    "slug": { "en-GB": "morning-song" },
+    "description": {
+      "en-GB": "Celebrate the beauty of nature's melody with \"Morning Song\". This joyful watercolor artwork captures a red bullfinch mid-song, its vibrant plumage and signature coloring portrayed with delicate precision and artistic harmony. The bird's open beak and expressive posture evoke a sense of musical rhythm, thoughtfully framed against a crisp white backdrop that highlights its form and energy."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "83dba172-b396-4e84-828e-b17467f00b1e",
+    "createdAt": "2025-06-09T21:08:19.669Z",
+    "lastModifiedAt": "2025-06-09T21:11:10.034Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "dragonfly" },
+        { "text": "blackwhite" },
+        { "text": "nature" },
+        { "text": "insect" },
+        { "text": "bug" }
+      ]
+    },
+    "masterVariant": {
+      "key": "038-01",
+      "sku": "038-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_Dragonfly_f-6xEJYrey.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-hB7Q3-FU.jpg",
+          "dimensions": { "w": 1925, "h": 2888 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 800,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "country": "RS"
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Dragonfly" },
+    "slug": { "en-GB": "dragonfly" },
+    "description": {
+      "en-GB": "An elegant and balanced composition reflecting the harmony of nature, gently immersing the viewer in the serene coolness of an early morning, with soft light, delicate tones, and a peaceful atmosphere"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "d0c46cde-32e9-4886-b276-6ee1f31c84e8",
+    "createdAt": "2025-06-15T22:46:19.499Z",
+    "lastModifiedAt": "2025-06-18T18:27:28.323Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_minim-hzF8PGQu.jpg",
+          "dimensions": { "w": 549, "h": 768 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_minim-q-Lcjy9v.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_minim-xFKPPNed.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 800,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": " A unique opportunity to see a unicorn" },
+    "slug": { "en-GB": "a-unique-opportunity-to-see-a-unicorn" },
+    "description": { "en-GB": "When a GitHub page takes too long to load" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "009",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "43e50bd0-ca2d-4e86-bda0-48ad8534c323",
+    "createdAt": "2025-05-25T20:45:45.453Z",
+    "lastModifiedAt": "2025-06-02T17:04:57.285Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "key": "009",
+      "sku": "009",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/13-Bz8CAENG.jpg",
+          "dimensions": { "w": 754, "h": 756 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 200,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 160,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Crimson Mirage" },
+    "slug": { "en-GB": "crimson-mirage" },
+    "description": { "en-GB": "A desert heist where nothing is real, and trust is an illusion" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0236",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "b00b9f0d-1b5c-448f-9ea7-57e589e77ae8",
+    "createdAt": "2025-06-05T13:17:03.989Z",
+    "lastModifiedAt": "2025-06-05T13:58:22.702Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/2a688512-f95b-4efb-8074-aa5fee8d5ab5/segments/2:4:1/Flux_Schnell_A_vertical_A2sized_wall_poster_with_clean_white_m_1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/2a688512-f95b-4efb-8074-aa5fee8d5ab5/segments/4:4:1/Flux_Schnell_A_vertical_A2sized_wall_poster_with_clean_white_m_3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/2a688512-f95b-4efb-8074-aa5fee8d5ab5/segments/3:4:1/Flux_Schnell_A_vertical_A2sized_wall_poster_with_clean_white_m_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/2a688512-f95b-4efb-8074-aa5fee8d5ab5/segments/1:4:1/Flux_Schnell_A_vertical_A2sized_wall_poster_with_clean_white_m_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1100,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Groove Revival" },
+    "slug": { "en-GB": "groove-revival" },
+    "description": {
+      "en-GB": "Immerse yourself in the atmosphere of the 60s and 70s with this stylish poster, where a vinyl record player and bright abstract shapes create a unique retro charm. Ideal for vinyl lovers!"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "09ea8cfb-2217-4a8f-b8b0-3e8181b389e7",
+    "createdAt": "2025-06-19T15:31:19.687Z",
+    "lastModifiedAt": "2025-06-19T15:34:50.589Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "5a436380-ce6c-4966-9fe6-d62e6b72eb8e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/990x1405_0xac120003_-XixBz61_.jpg",
+          "dimensions": { "w": 990, "h": 1405 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1200,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "About hot male friendship" },
+    "slug": { "en-GB": "about-hot-male-friendship" },
+    "description": { "en-GB": "Chinese-Soviet posters about hot male friendship" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "1515",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "559e6238-3fa0-4397-96fd-fbfaa0f54e2d",
+    "createdAt": "2025-06-09T18:10:03.785Z",
+    "lastModifiedAt": "2025-06-10T14:47:02.573Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "mountain" },
+        { "text": "whiteblack" },
+        { "text": "landscape" },
+        { "text": "japanese" }
+      ]
+    },
+    "masterVariant": {
+      "key": "037-01",
+      "sku": "037-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_Traditional-j8sSN7hx.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/peaceful-living-room-2fai4IgX.jpg",
+          "dimensions": { "w": 1805, "h": 2709 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [
+      {
+        "key": "037-02",
+        "sku": "037-02",
+        "id": 3,
+        "images": [
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_Traditional-1buiNhHV.jpg",
+            "dimensions": { "w": 896, "h": 1344 }
+          },
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/peaceful-living-room-KAls8v6X.jpg",
+            "dimensions": { "w": 1806, "h": 2709 }
+          }
+        ],
+        "prices": [
+          {
+            "value": {
+              "centAmount": 800,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            }
+          }
+        ],
+        "assets": [],
+        "attributes": []
+      }
+    ],
+    "name": { "en-GB": "Mountain landscape" },
+    "slug": { "en-GB": "mountain-landscape" },
+    "description": {
+      "en-GB": "Traditional Japanese mountain landscape with soft gradients and minimalistic composition"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "003",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "8783343b-45f6-43ae-b05c-f317d4e0672a",
+    "createdAt": "2025-05-25T20:27:05.009Z",
+    "lastModifiedAt": "2025-06-05T13:57:52.866Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "masterVariant": {
+      "key": "003",
+      "sku": "003",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_conte-SWunKeap.jpg",
+          "dimensions": { "w": 376, "h": 564 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/5-rtli3R0z.jpg",
+          "dimensions": { "w": 462, "h": 640 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/6-qMXrNY3t.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/65306dc3-a75b-4a49-abec-57ccb347fa07/segments/1:4:1/Flux_Schnell_A_contemporary_A2sized_wall_poster_showcased_subt_0.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/65306dc3-a75b-4a49-abec-57ccb347fa07/segments/2:4:1/Flux_Schnell_A_contemporary_A2sized_wall_poster_showcased_subt_1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1200,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [
+      {
+        "id": 2,
+        "images": [
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_conte-IerdACQN.jpg",
+            "dimensions": { "w": 378, "h": 572 }
+          },
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_conte-6KVoZhND.jpg",
+            "dimensions": { "w": 832, "h": 1248 }
+          }
+        ],
+        "prices": [],
+        "assets": [],
+        "attributes": []
+      },
+      {
+        "id": 3,
+        "images": [
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_conte-gHBNlM3z.jpg",
+            "dimensions": { "w": 426, "h": 640 }
+          },
+          {
+            "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_conte-we8sB5VA.jpg",
+            "dimensions": { "w": 832, "h": 1248 }
+          }
+        ],
+        "prices": [],
+        "assets": [],
+        "attributes": []
+      }
+    ],
+    "name": { "en-GB": "The Forgotten Kingdom" },
+    "slug": { "en-GB": "the-forgotten-kingdom" },
+    "description": { "en-GB": "An ancient realm awakens, and only one heir can reclaim it." },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "aec2039c-3f8c-42b1-b4eb-071d083fc3db",
+    "createdAt": "2025-06-11T12:23:42.241Z",
+    "lastModifiedAt": "2025-06-14T05:53:17.714Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "sketch" },
+        { "text": "sea" },
+        { "text": "pier" },
+        { "text": "fishing" },
+        { "text": "calm" },
+        { "text": "blackwhite" }
+      ]
+    },
+    "masterVariant": {
+      "key": "040-01",
+      "sku": "040-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-K32iUs7r.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/colorful-farmhouse-s-xqhZN5hR.jpg",
+          "dimensions": { "w": 3200, "h": 4000 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Fishing pier" },
+    "slug": { "en-GB": "fishing-pier" },
+    "description": {
+      "en-GB": "A gentle pencil sketch capturing a quiet moment by the sea. A wooden pier stretches into calm waters as fishermen stand and sit in still concentration. Rendered in soft pencil lines with minimal detail, evokes a sense of peace, solitude, and timeless simplicity."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "001",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "6500f8a3-97dd-4eb2-95f7-549e9309fe9e",
+    "createdAt": "2025-05-21T14:49:36.978Z",
+    "lastModifiedAt": "2025-06-03T00:17:38.975Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "001",
+      "sku": "001",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/1-H00GS9Zg.jpg",
+          "dimensions": { "w": 455, "h": 622 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/2-tkw-XUyD.jpg",
+          "dimensions": { "w": 1120, "h": 1120 }
+        }
+      ],
+      "prices": [
+        {
+          "key": "001",
+          "value": {
+            "centAmount": 1000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 800,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Waves in Japanese traditional style" },
+    "slug": { "en-GB": "waves-in-japanese-traditional-style" },
+    "description": { "en-GB": "Waves in japanese traditional style with photo frame" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "045",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "1774aed6-e736-42bc-88f1-57d9828113df",
+    "createdAt": "2025-06-05T14:09:33.923Z",
+    "lastModifiedAt": "2025-06-05T14:32:16.249Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_moder-6TpgvolU.jpg",
+          "dimensions": { "w": 508, "h": 785 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ffd3cdb9-85a1-4d6c-8c91-c25e6c5e08b0/segments/3:4:1/Flux_Schnell_A_modern_A2sized_spacethemed_poster_designed_to_e_2.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ffd3cdb9-85a1-4d6c-8c91-c25e6c5e08b0/segments/4:4:1/Flux_Schnell_A_modern_A2sized_spacethemed_poster_designed_to_e_3.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ffd3cdb9-85a1-4d6c-8c91-c25e6c5e08b0/segments/2:4:1/Flux_Schnell_A_modern_A2sized_spacethemed_poster_designed_to_e_1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 800,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Starlit Serenity" },
+    "slug": { "en-GB": "starlit-serenity" },
+    "description": {
+      "en-GB": "Modern space poster with orange galaxy and minimalist stars, made in soft shades of blue, silver and white. Ideal for creating a stylish interior, creating an atmosphere of calm and inspiration."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "0bdca41a-0b30-49c2-b5a9-8b920591fc67",
+    "createdAt": "2025-06-14T06:23:39.237Z",
+    "lastModifiedAt": "2025-06-14T06:25:30.294Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "color" },
+        { "text": "colorful" },
+        { "text": "city" },
+        { "text": "newyork" },
+        { "text": "ny" },
+        { "text": "taxi" },
+        { "text": "evening" }
+      ]
+    },
+    "masterVariant": {
+      "key": "046-01",
+      "sku": "046-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_delicate_wa-ajsRzO1k.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/bright-studio-apartm-DvKOVc9R.jpg",
+          "dimensions": { "w": 774, "h": 1115 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1130,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "New York symphony" },
+    "slug": { "en-GB": "new-york-symphony" },
+    "description": {
+      "en-GB": "This vibrant and cinematic urban scene captures the dynamic spirit of New York City — bright yellow taxis speeding by, and the iconic Empire State Building rising majestically in the background. Set in the golden hues of evening light, dramatic shadows and vivid colors bring the artwork to life. "
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "007",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "532c9972-8c9b-43c3-8b30-66aa6115ce43",
+    "createdAt": "2025-05-25T20:34:09.878Z",
+    "lastModifiedAt": "2025-06-02T17:04:20.707Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "007",
+      "sku": "007",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/9-eCUXOGuX.jpg",
+          "dimensions": { "w": 347, "h": 516 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/10-SjdhLWfa.jpg",
+          "dimensions": { "w": 1500, "h": 1500 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 2500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 2000,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Wings of the Phoenix" },
+    "slug": { "en-GB": "wings-of-the-phoenix" },
+    "description": {
+      "en-GB": "A sky pirate’s quest for a mythical firebird that grants immortality"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "01215",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "61c27af4-95c1-46c5-b4b7-1b8b8a8ca5a0",
+    "createdAt": "2025-06-05T14:27:43.944Z",
+    "lastModifiedAt": "2025-06-05T14:29:01.456Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/4fb7ec34-1dfc-46a4-9ccc-56b7e9070a24/segments/2:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_1.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/4fb7ec34-1dfc-46a4-9ccc-56b7e9070a24/segments/3:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_2.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/4fb7ec34-1dfc-46a4-9ccc-56b7e9070a24/segments/4:4:1/Flux_Schnell_delicate_watercolor_painting_Create_a_vertical_bl_3.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1200,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 960,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Summit Shadows" },
+    "slug": { "en-GB": "summit-shadows" },
+    "description": {
+      "en-GB": "Clear lines and contrasting shadows create a sense of height and grandeur, emphasizing the rugged beauty of the mountain landscape. An ideal accent for a modern interior, conveying an atmosphere of tranquility and the power of nature."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "07572",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a76dffc1-b52c-46c6-973a-052ee3ae4141",
+    "createdAt": "2025-06-05T13:40:54.856Z",
+    "lastModifiedAt": "2025-06-08T18:00:21.982Z",
+    "categories": [{ "typeId": "category" }, { "key": "01" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" },
+      { "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_visua-aUpi2-Bv.jpg",
+          "dimensions": { "w": 431, "h": 703 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/349739fc-6589-41b7-992e-79c65fa56f0f/segments/4:4:1/Flux_Schnell_A_visually_captivating_A2_wall_poster_shown_hangi_3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/349739fc-6589-41b7-992e-79c65fa56f0f/segments/2:4:1/Flux_Schnell_A_visually_captivating_A2_wall_poster_shown_hangi_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ba5a943f-4339-4eb0-8d6f-9b23784e2261/segments/1:4:1/Flux_Schnell_A_bold_stylish_A2_art_poster_with_a_contemporary__0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/ba5a943f-4339-4eb0-8d6f-9b23784e2261/segments/4:4:1/Flux_Schnell_A_bold_stylish_A2_art_poster_with_a_contemporary__3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/349739fc-6589-41b7-992e-79c65fa56f0f/segments/1:4:1/Flux_Schnell_A_visually_captivating_A2_wall_poster_shown_hangi_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Wave of Freedom" },
+    "slug": { "en-GB": "wave-of-freedom" },
+    "description": {
+      "en-GB": "A stylish poster in a modern graphic style that conveys the energy and freedom of surfing. Bright colors, dynamic lines and minimalism create an atmosphere of movement and confidence - an ideal accent for a modern interior."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "4f5c9a57-57de-46c7-b5af-088d4fe4e392",
+    "createdAt": "2025-06-09T11:20:23.885Z",
+    "lastModifiedAt": "2025-06-14T20:27:42.904Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/optimize-qYqS92Sq.jpg",
+          "dimensions": { "w": 533, "h": 800 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/101-axVs8ZXc.jpg",
+          "dimensions": { "w": 900, "h": 1188 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 500,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": " Forget about sleep and fatigue" },
+    "slug": { "en-GB": "forget-about-sleep-and-fatigue-squeeze-out-whats-left" },
+    "description": { "en-GB": "Visualization of any sprint in the team final project RS School" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0146",
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "d1897f48-b114-4bc8-8624-fe1723894014",
+    "createdAt": "2025-06-01T00:50:04.651Z",
+    "lastModifiedAt": "2025-06-08T17:59:34.866Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_large-CI0n6psa.jpg",
+          "dimensions": { "w": 503, "h": 708 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/e3dc2f6a-d862-4b0c-8307-144e4683da0e/segments/3:4:1/Flux_Schnell_A_large_sleek_modernstyle_wall_poster_dominates_t_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/e3dc2f6a-d862-4b0c-8307-144e4683da0e/segments/4:4:1/Flux_Schnell_A_large_sleek_modernstyle_wall_poster_dominates_t_3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/e3dc2f6a-d862-4b0c-8307-144e4683da0e/segments/1:4:1/Flux_Schnell_A_large_sleek_modernstyle_wall_poster_dominates_t_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 2400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "The Silent Age" },
+    "slug": { "en-GB": "the-silent-age" },
+    "description": {
+      "en-GB": "The intellectual calm of a Kubrick space station—no explosions, only the hum of gravity and infinite possibility"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Standalone",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "6bcaf938-fe0a-43ce-810f-721838d8e405",
+    "createdAt": "2025-06-11T13:11:17.339Z",
+    "lastModifiedAt": "2025-06-14T05:53:44.431Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "calm" },
+        { "text": "village" },
+        { "text": "evening" },
+        { "text": "sketch" }
+      ]
+    },
+    "masterVariant": {
+      "key": "041-01",
+      "sku": "041-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-ZQPK_cCo.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/the-gray-wood-cabine-BFbYj_F0.jpg",
+          "dimensions": { "w": 1767, "h": 2651 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1250,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Evening calm in a village" },
+    "slug": { "en-GB": "evening-calm-in-a-village" },
+    "description": {
+      "en-GB": "Pencil sketch capturing the quiet charm of a village at dusk. Soft lines and gentle shading depict rustic homes, fading light, and a lone figure in peaceful stillness. Minimalist and serene, this artwork evokes a sense of calm and nostalgia."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_50x70_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "a165e248-ae7e-42d2-9b3c-8764fc6497b3",
+    "createdAt": "2025-06-11T20:29:19.021Z",
+    "lastModifiedAt": "2025-06-11T20:30:48.921Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "3d80158a-dc76-45ca-81bc-cbb644b6a069" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "circles" },
+        { "text": "colorful" },
+        { "text": "color" },
+        { "text": "abstract" }
+      ]
+    },
+    "masterVariant": {
+      "key": "042-01",
+      "sku": "042-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Dev_delicate_wa-dFylNe8F.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-Cn58OcWo.jpg",
+          "dimensions": { "w": 1925, "h": 2888 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1650,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Concentric rhythm" },
+    "slug": { "en-GB": "concentric-rhythm" },
+    "description": {
+      "en-GB": "A vivid watercolor abstract inspired by Kandinsky, featuring a grid of colorful squares, each with concentric circles in contrasting tones. Fluid brushstrokes, gentle blending, and visible paper texture give this piece a playful yet refined energy. Bold, modern, and full of expressive movement — a striking addition to any creative space."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "005",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "5c548991-a3ac-47d6-b63c-be12e4fef940",
+    "createdAt": "2025-05-23T15:53:13.973Z",
+    "lastModifiedAt": "2025-06-02T17:19:02.381Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "005",
+      "sku": "005",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_bold_-tRS4HKMr.jpg",
+          "dimensions": { "w": 737, "h": 895 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-2pKzz1kp.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_verti-d6gU70CO.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1400,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1120,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Rhythm of the Vinyl", "ru-RU": "Продукт нэйм", "sr-RS": "Ghjlern y'qv" },
+    "slug": { "ru-RU": "product-name" },
+    "description": {
+      "en-GB": "Dive into the vibrant world of music with \"Rhythm of the Vinyl,\" a dynamic wall poster that captures the essence of vinyl culture. ",
+      "ru-RU": "Продукт дескрипшн",
+      "sr-RS": "Ghjlern ltcrhbgiy"
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "1e2b6bc6-2900-41d8-b8b8-2eba7cfb3f8a",
+    "createdAt": "2025-06-19T15:55:11.507Z",
+    "lastModifiedAt": "2025-06-19T15:55:55.067Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "id": "e4201c47-6e27-4102-ad7a-865e4cc917fb" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/1722589106162798144-nqWC_PIr.jpg",
+          "dimensions": { "w": 429, "h": 610 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/%D0%B0-dUA0rqvu.jpg",
+          "dimensions": { "w": 700, "h": 695 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1300,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1235,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "58c24703-6fac-48dd-846e-c36cd03324c7",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Don't try to straighten the banana" },
+    "slug": { "en-GB": "dont-try-to-straighten-the-banana" },
+    "description": { "en-GB": "Well, now you are wiser" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "012",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "866e31b9-4add-48da-ac52-7958bc0662ec",
+    "createdAt": "2025-05-28T10:53:13.968Z",
+    "lastModifiedAt": "2025-06-03T09:23:45.551Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "masterVariant": {
+      "key": "012",
+      "sku": "012",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-e4ftujO2.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-bt8sKu_i.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-slJfOtik.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-XBLDVEDz.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1300,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1235,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "58c24703-6fac-48dd-846e-c36cd03324c7",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Aphrodite in Fissures" },
+    "slug": { "en-GB": "aphrodite-in-fissures" },
+    "description": { "en-GB": "Minimalistic poster depicting the goddess of love" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "0542",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "b11f613c-93e8-4be0-a7ed-0b3362df8b6c",
+    "createdAt": "2025-06-05T13:34:00.320Z",
+    "lastModifiedAt": "2025-06-08T18:01:27.472Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_bold_-ZeY8xOwf.jpg",
+          "dimensions": { "w": 529, "h": 754 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d4c7ffc3-2fb7-4e73-8bb5-3c14ec2c84c1/segments/3:4:1/Flux_Schnell_A_bold_vertical_A2sized_wall_poster_displayed_wit_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d4c7ffc3-2fb7-4e73-8bb5-3c14ec2c84c1/segments/1:4:1/Flux_Schnell_A_bold_vertical_A2sized_wall_poster_displayed_wit_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d4c7ffc3-2fb7-4e73-8bb5-3c14ec2c84c1/segments/2:4:1/Flux_Schnell_A_bold_vertical_A2sized_wall_poster_displayed_wit_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/d4c7ffc3-2fb7-4e73-8bb5-3c14ec2c84c1/segments/4:4:1/Flux_Schnell_A_bold_vertical_A2sized_wall_poster_displayed_wit_3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1900,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1520,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Mushroom Dreams" },
+    "slug": { "en-GB": "mushroom-dreams" },
+    "description": {
+      "en-GB": "Dive into a world of surreal fantasy with this poster where giant mushrooms create a magical landscape full of bright colors and fascinating shapes. Ideal for those who are looking for inspiration and creativity in their interior."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "010",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "0c20fedb-bc41-40e6-825e-789c2b1d187e",
+    "createdAt": "2025-05-25T20:47:34.680Z",
+    "lastModifiedAt": "2025-06-01T20:07:02.986Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "key": "010",
+      "sku": "010",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/14-AQyFeSyG.jpg",
+          "dimensions": { "w": 459, "h": 605 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/15-vCHzlm-c.jpg",
+          "dimensions": { "w": 1120, "h": 1120 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 2000,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1600,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Neon Requiem" },
+    "slug": { "en-GB": "neon-requiem" },
+    "description": { "en-GB": "A cyberpunk tale of lost souls fighting in a neon-lit dystopia" },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "001546",
+    "productType": { "key": "poster_digital_30x40", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "bc01172d-4413-42f1-accf-f0e8e85a5b16",
+    "createdAt": "2025-06-01T00:34:39.396Z",
+    "lastModifiedAt": "2025-06-01T20:07:02.982Z",
+    "categories": [{ "key": "01", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "01", "id": "88e76b96-306c-4e63-9a13-cd7d103f2bef" }],
+    "masterVariant": {
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_highl-MdqKwbca.jpg",
+          "dimensions": { "w": 660, "h": 897 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/6e95a75e-dbc7-41cf-862a-fd447645f6df/segments/2:4:1/Flux_Schnell_A_highly_detailed_photorealistic_wall_poster_set__1.jpg?w=512",
+          "dimensions": { "w": 512, "h": 768 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/6e95a75e-dbc7-41cf-862a-fd447645f6df/segments/4:4:1/Flux_Schnell_A_highly_detailed_photorealistic_wall_poster_set__3.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1800,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          },
+          "discounted": {
+            "value": {
+              "centAmount": 1440,
+              "currencyCode": "EUR",
+              "type": "centPrecision",
+              "fractionDigits": 2
+            },
+            "discount": {
+              "id": "064fc2ab-c634-494c-bc58-3e5c2dc04b3c",
+              "typeId": "product-discount"
+            }
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Infinite Orbit" },
+    "slug": { "en-GB": "infinite-orbit" },
+    "description": {
+      "en-GB": "A breathtaking, hyper-detailed space odyssey unfolds across this premium wall poster, transforming any room into a portal to the cosmos."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "key": "004",
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "13ab6ccb-2f39-44fc-9bef-4648fd83a5a0",
+    "createdAt": "2025-05-24T13:43:48.032Z",
+    "lastModifiedAt": "2025-06-08T17:59:15.091Z",
+    "categories": [{ "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [
+      { "id": "fa2bf9f2-f8c3-4be0-8b5b-07e748ed56ab" },
+      { "id": "efd51198-7c7b-4ebb-8e36-82c9f93b5e8c" }
+    ],
+    "masterVariant": {
+      "key": "004",
+      "sku": "004",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Flux_Schnell_A_sleek-o7R834fY.jpg",
+          "dimensions": { "w": 501, "h": 710 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/fb74eec4-afee-4ffb-90e5-a8349672cab5/segments/1:4:1/Flux_Schnell_A_sleek_modern_vertical_poster_scaled_to_A2_or_A3_0.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/fb74eec4-afee-4ffb-90e5-a8349672cab5/segments/3:4:1/Flux_Schnell_A_sleek_modern_vertical_poster_scaled_to_A2_or_A3_2.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        },
+        {
+          "url": "https://cdn.leonardo.ai/users/cfe6305c-d2b8-47ed-9ad2-f210c673d9b3/generations/fb74eec4-afee-4ffb-90e5-a8349672cab5/segments/2:4:1/Flux_Schnell_A_sleek_modern_vertical_poster_scaled_to_A2_or_A3_1.jpg",
+          "dimensions": { "w": 832, "h": 1248 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 1800,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "Celestial Harmony" },
+    "slug": { "ru-RU": "product-name2" },
+    "description": {
+      "en-GB": "Set against a soft gray backdrop, this piece features a captivating array of futuristic elements, including stylized planetary orbits and glowing nebulae, all harmonizing in a minimalist aesthetic. "
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  },
+  {
+    "productType": { "key": "poster_30x40_paper", "typeId": "product-type" },
+    "priceMode": "Embedded",
+    "taxCategory": { "key": "ValueAddedTax", "typeId": "tax-category" },
+    "id": "ce26b749-c56d-4ffe-a8c0-59ea668ab20e",
+    "createdAt": "2025-06-14T10:12:46.163Z",
+    "lastModifiedAt": "2025-06-14T10:14:57.406Z",
+    "categories": [{ "key": "02465", "typeId": "category" }],
+    "categoryOrderHints": [],
+    "categoryKeysAndIds": [{ "key": "02465", "id": "cf506640-e300-4331-a1cf-4c85e5675e7e" }],
+    "searchKeywords": {
+      "en-GB": [
+        { "text": "blackwhite" },
+        { "text": "drum" },
+        { "text": "drummer" },
+        { "text": "woman" },
+        { "text": "musician" },
+        { "text": "music" }
+      ]
+    },
+    "masterVariant": {
+      "key": "052-01",
+      "sku": "052-01",
+      "id": 1,
+      "images": [
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/Leonardo_Phoenix_10_-HRofhf0d.jpg",
+          "dimensions": { "w": 896, "h": 1344 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-TJ6oGjw-.jpg",
+          "dimensions": { "w": 899, "h": 1349 }
+        },
+        {
+          "url": "https://images.cdn.europe-west1.gcp.commercetools.com/60cce3b2-90e6-4736-a410-6e299688feda/artists-side-table-w-KXg7ls3Q.jpg",
+          "dimensions": { "w": 1617, "h": 2426 }
+        }
+      ],
+      "prices": [
+        {
+          "value": {
+            "centAmount": 980,
+            "currencyCode": "EUR",
+            "type": "centPrecision",
+            "fractionDigits": 2
+          }
+        }
+      ],
+      "assets": [],
+      "attributes": []
+    },
+    "variants": [],
+    "name": { "en-GB": "The Drummer" },
+    "slug": { "en-GB": "the-drummer" },
+    "description": {
+      "en-GB": "This vibrant and eclectic portrait captures a fierce, dynamic woman mid-performance at her drum set, exploding with energy at the heart of the composition. Merging the irreverent spirit of Dadaism with the bold aesthetics of Pop Art, every beat sends colorful splashes—hot pinks, electric blues, acid greens, and vibrant yellows—bursting across the canvas. Her form is a collage of torn paper, vintage newspaper clippings, and distressed textures, set against a wild backdrop of abstract shapes, Ben-Day dots, and clashing 1960s-inspired patterns. Bold black outlines frame her stylized yet partly realistic features, as arcs of paint echo the rhythm and motion of her drumming."
+    },
+    "metaTitle": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "metaDescription": { "ru-RU": "", "en-GB": "", "sr-RS": "" },
+    "published": true,
+    "hasStagedChanges": false
+  }
+]

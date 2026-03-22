@@ -10,25 +10,34 @@ import {
   projectKey,
   scopes,
 } from './api-client-builder';
+import { mockApiRoot } from './mocks/api-mock-client';
 
-const authMiddlewareOptions: AuthMiddlewareOptions = {
-  host: authUrl,
-  projectKey,
-  credentials: {
-    clientId,
-    clientSecret,
-  },
-  scopes,
-  httpClient: fetch,
-};
+const useMock = import.meta.env.VITE_USE_MOCK === 'true';
 
-const client = new ClientBuilder()
-  .withProjectKey(projectKey)
-  .withClientCredentialsFlow(authMiddlewareOptions)
-  .withCorrelationIdMiddleware(correlationIdMiddlewareOptions)
-  .withHttpMiddleware(httpMiddlewareOptions)
-  .build();
+let apiRoot;
 
-const apiRoot = createApiBuilderFromCtpClient(client).withProjectKey({ projectKey });
+if (useMock) {
+  apiRoot = mockApiRoot;
+} else {
+  const authMiddlewareOptions: AuthMiddlewareOptions = {
+    host: authUrl,
+    projectKey,
+    credentials: {
+      clientId,
+      clientSecret,
+    },
+    scopes,
+    httpClient: fetch,
+  };
+
+  const client = new ClientBuilder()
+    .withProjectKey(projectKey)
+    .withClientCredentialsFlow(authMiddlewareOptions)
+    .withCorrelationIdMiddleware(correlationIdMiddlewareOptions)
+    .withHttpMiddleware(httpMiddlewareOptions)
+    .build();
+
+  apiRoot = createApiBuilderFromCtpClient(client).withProjectKey({ projectKey });
+}
 
 export default apiRoot;

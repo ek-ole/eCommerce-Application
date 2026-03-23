@@ -160,9 +160,9 @@ export const mockApiRoot = {
                 const priceB = b.masterVariant.prices[0]?.value.centAmount || 0;
                 return priceB - priceA;
               });
-            } else if (sortOption === 'name asc') {
+            } else if (sortOption === 'name.en-GB asc') {
               filteredProducts.sort((a, b) => a.name['en-GB'].localeCompare(b.name['en-GB']));
-            } else if (sortOption === 'name desc') {
+            } else if (sortOption === 'name.en-GB desc') {
               filteredProducts.sort((a, b) => b.name['en-GB'].localeCompare(a.name['en-GB']));
             }
           }
